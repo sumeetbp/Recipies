@@ -1,0 +1,46 @@
+*{
+    background-color: beige;
+}
+
+.ingredients, .steps{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: bold
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    background-color: cadetblue;
+}
+
+h3{
+    background-color: dimgrey;  
+    text-align: center;
+    font-size: x-large;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    font-size: larger;
+    background-color: black;
+    color: aliceblue;
+}
+
+.sub-original{
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    text-align: left;
+}
+.original{
+    text-align: center;
+    background-color: black;
+}
+
+img{
+    height: auto;
+    width: 500px;
+}
